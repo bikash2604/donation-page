@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://files.globalgiving.org/pfil/34464/pict_large.jpg?m=1532102419000');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.first {
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+    height: 70vh;
+    color: rgb(26, 24, 21);
+}
+
+.first-heading animate {
+    align-items: center;
+    text-align: center;
+    left: 100px;
+    color: blanchedalmond;
+}
+#donate{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border: 3px solid rgb(200, 193, 193);
+    background-color: black;
+    color: aliceblue;
+    margin: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://media.istockphoto.com/photos/poor-indian-children-asking-for-food-india-picture-id524903696?k=20&m=524903696&s=612x612&w=0&h=lyOsBJSuxpNFYhoFQDrkBjWrMulPnMkQHkhfQWw2Z4g=');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.design{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.first {
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+    height: 70vh;
+    color: blanchedalmond;
+}
+
+.first-heading animate {
+    align-items: center;
+    text-align: center;
+    left: 100px;
+    color: blanchedalmond;
+}
